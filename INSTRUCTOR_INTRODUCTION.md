@@ -49,8 +49,6 @@ Too many students learn to use ML libraries without understanding *why* they wor
 Malaysia is a global hub, and I'm honored to work with students from around the world, including many brilliant Korean students! 
 
 **What I've learned from my international students:**
-- 🇰🇷 Korean students bring exceptional discipline and collaborative spirit
-- 🎯 Your focus on practical applications is inspiring
 - 🤝 Cross-cultural collaboration creates the best learning environments
 
 ---
@@ -82,7 +80,7 @@ This means I bring **current, cutting-edge knowledge** to this course!
 
 - **Email:** yusliza@utm.my
 - **Office:** Faculty of Computing, UTM
-- **Office Hours:** By appointment (flexible for international students!)
+- **Office Hours:8:00am - 5:00pm
 - **Response Time:** Usually within 24 hours
 
 ---
