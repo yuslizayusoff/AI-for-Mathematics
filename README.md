@@ -20,8 +20,8 @@ By the end of this course, students will:
 | 11:00 - 11:15 | Break | 15 min |
 | 11:15 - 13:00 | **Module 3: Deep Learning** - Neural Networks Mathematics | 60 min |
 | 13:00 - 14:00 | 🍽️ Lunch Break | 45 min |
-| 14:00 - 16:30 | **Module 4: Hands-On Project** - Real-World Application | 90 min |
-| 16:30 - 17:00 | **Module 5: Assessment & Wrap-up** | 30 min |
+| 14:00 - 16:30 | **Module 4: Hands-On Project** - Real-World Application |  |
+| 16:30 - 17:00 | **Module 5: Assessment & Wrap-up** |  |
 
 ## Repository Structure
 ```
