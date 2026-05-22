@@ -125,4 +125,4 @@ Before the course starts, I'd love to know:
 *Find my research and projects:*
 - 🔗 [UTM Profile](https://people.utm.my/yusliza/)
 - 🔗 [Research Profile](https://people.utm.my/yusliza/research-profile/)
-- 🔗 [GitHub Projects](https://github.com/yuslizayusoff)
+
