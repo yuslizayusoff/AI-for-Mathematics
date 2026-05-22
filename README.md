@@ -15,13 +15,13 @@ By the end of this course, students will:
 
 | Time | Module | Duration |
 |------|--------|----------|
-| 09:00 - 10:00 | **Module 1: Foundations** - Linear Algebra & Calculus Basics | 60 min |
-| 10:00 - 11:00 | **Module 2: Supervised Learning** - Regression & Classification | 60 min |
-| 11:00 - 11:15 | Break | 15 min |
-| 11:15 - 13:00 | **Module 3: Deep Learning** - Neural Networks Mathematics | 60 min |
-| 13:00 - 14:00 | 🍽️ Lunch Break | 45 min |
-| 14:00 - 16:30 | **Module 4: Hands-On Project** - Real-World Application |  |
-| 16:30 - 17:00 | **Module 5: Assessment & Wrap-up** |  |
+| 09:00 - 10:00 | **Module 1: Foundations** - Linear Algebra & Calculus Basics | 
+| 10:00 - 11:00 | **Module 2: Supervised Learning** - Regression & Classification | 
+| 11:00 - 11:15 | Break | 
+| 11:15 - 13:00 | **Module 3: Deep Learning** - Neural Networks Mathematics | 
+| 13:00 - 14:00 | 🍽️ Lunch Break | 
+| 14:00 - 16:30 | **Module 4: Hands-On Project** - Real-World Application |  
+| 16:30 - 17:00 | **Module 5: Assessment & Wrap-up** |  
 
 ## Repository Structure
 ```
