@@ -1,7 +1,7 @@
 # AI for Mathematics: One-Day Undergraduate Course
 
 ## Course Overview
-This is a comprehensive one-day course designed for Korean outbound undergraduate students exploring the intersection of **Mathematics and Artificial Intelligence**. Through hands-on Python notebooks and real-world applications, students will understand how mathematical foundations power modern machine learning algorithms.
+This is a comprehensive one-day course designed for exploring the intersection of **Mathematics and Artificial Intelligence**. Through hands-on Python notebooks and real-world applications, students will understand how mathematical foundations power modern machine learning algorithms.
 
 ## Course Objectives
 By the end of this course, students will:
