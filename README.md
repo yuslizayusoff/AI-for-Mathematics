@@ -13,8 +13,8 @@ By the end of this course, students will:
 
 ## Course Schedule (8 hours)
 
-| Time | Module | Duration |
-|------|--------|----------|
+| Time | Module | 
+|------|--------|
 | 09:00 - 10:00 | **Module 1: Foundations** - Linear Algebra & Calculus Basics | 
 | 10:00 - 11:00 | **Module 2: Supervised Learning** - Regression & Classification | 
 | 11:00 - 11:15 | Break | 
